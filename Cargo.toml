@@ -1,0 +1,14 @@
+[package]
+name = 'dtool'
+version = '0.1.0'
+edition = '2021'
+authors = ['thinkgo <thinkgo@aliyun.com>']
+
+[dependencies]
+anyhow = '1.0.66'
+log = '0.4.17'
+thiserror = '1.0.37'
+
+[dependencies.clap]
+version = '4.0.18'
+features = ['derive']
