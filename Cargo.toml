@@ -8,6 +8,8 @@ authors = ['thinkgo <thinkgo@aliyun.com>']
 anyhow = '1.0.66'
 log = '0.4.17'
 thiserror = '1.0.37'
+tar = '0.4.38'
+flate2 = '1.0.24'
 
 [dependencies.clap]
 version = '4.0.18'
